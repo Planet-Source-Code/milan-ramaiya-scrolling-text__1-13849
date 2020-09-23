@@ -1,0 +1,9 @@
+CScroller engine
+
+Version  Date      Info
+-------  --------  ------------------------------------------------------------
+1.1.0    12.25.00  added support for images
+                   fixed a few minor bug
+
+1.0.0    12.24.00  First release
+                     supports
